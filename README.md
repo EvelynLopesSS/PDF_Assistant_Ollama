@@ -9,6 +9,8 @@ https://github.com/EvelynLopesSS/PDf_Assistant/assets/113462824/074f7a26-b1ac-45
 
 ## 👉 Resources Used
 
+![image](https://github.com/EvelynLopesSS/PDF_Assistant_Ollama/assets/113462824/36b7307b-4898-430b-b624-d817bf42f3cf)
+
 
 ### 📚 Langchain 🦜🖇️
 
